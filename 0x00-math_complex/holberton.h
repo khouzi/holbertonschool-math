@@ -7,7 +7,7 @@
  * @char_to_compare: print type
  * @f: print function
  */
-typedef struct number_complex
+typedef struct n_complex
 {
 	double re;
 	double im;
